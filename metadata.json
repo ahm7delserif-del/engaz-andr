@@ -1,0 +1,6 @@
+{
+  "name": "Engaz",
+  "description": "Personal daily-management native app with offline Room database, habit tracker, body health, finance budget, gaming balance, focus timers, and weekly reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
